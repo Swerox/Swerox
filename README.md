@@ -1,7 +1,7 @@
 
-# Hi! 
+# Hi, I'm Dominik! 👋
 
-I'm Dominik, a 20 year old Software Developer from Germany. 
+I'm a 20 year old Software Developer from Germany. 
 
 
 ## 🚀 About Me
